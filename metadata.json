@@ -1,0 +1,5 @@
+{
+  "name": "Vibe & Shoot",
+  "description": "一款基于 AI 的高级摄影企划生成器。上传参考图，一键提取情绪标签、专业调色参数、光影构图指导，并自动生成小红书/抖音风格的爆款社媒文案与灵感参考图。",
+  "requestFramePermissions": []
+}
